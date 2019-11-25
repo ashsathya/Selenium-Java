@@ -11,7 +11,10 @@ public class SwitchOperator {
 	 * create a Switch case: type 'switch', followed by: ctrl + space + down arrow +
 	 * enter
 	 * 
-	 * What are my learnings from this code? 1) 2) 3)
+	 * What are my learnings from this code? 
+	 * 1) Declare all the possible operations using switch case. 
+	 * 2) Perform the required operation by passing it in the switch case. 
+	 * 3) Have a default case to throw a comment if none of the operations matches. 
 	 * 
 	 */
 
