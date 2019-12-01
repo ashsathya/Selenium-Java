@@ -19,16 +19,6 @@ public class CharacterOccurance {
 			c) If the given character matches the expected character (ch),
 			   Then, increment totalCount
 		*/
-
-		
-		
-		
-		
-		
-		
-		
-		
-		
 		// Print the count here
 		System.out.println("Total count of character("+ch+"): " + totalCount);
 		

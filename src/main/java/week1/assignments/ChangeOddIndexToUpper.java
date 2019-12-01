@@ -5,7 +5,10 @@ public class ChangeOddIndexToUpper {
 	public static void main(String[] args) {
 		
 		// Here is the input
-				String test = "changeme";
+				String text = "Change the text to uppercase";
+				
+				String convertString= text.toUpperCase();
+				System.out.println(convertString);
 				
 		//Build a logic  to change the odd index to uppercase (output:cHaNgEmE)
 				/* Pseudo Code: 
